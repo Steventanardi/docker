@@ -24,3 +24,9 @@ In summary, learning Docker is essential for modern application development, as 
 - [Docker Networking](04%20Docker%20Networking.md)
 - [Docker Volumes](05%20Docker%20Volumes.md)
 - [Docker Compose](06%20Docker%20Compose.md)
+
+# Referred materials and softwares
+### Chat-gpt
+### [Docker library](https://github.com/docker-library)
+### [Docker images](https://docs.docker.com/docker-hub/official_images)
+### [Official website](https://www.docker.com/)
